@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\HTML",
-    "\\Resources"
+    "\\JS",
+    "\\Resources",
+    "\\Resources\\assets",
+    "\\Resources\\images",
+    "\\Styles"
   ],
+  "SelectedNode": "\\JS\\master.js",
   "PreviewInSolutionExplorer": false
 }
